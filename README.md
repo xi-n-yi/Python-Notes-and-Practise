@@ -9,26 +9,38 @@ Python practise
 ## Random walk
 
 ## numpy
+> about axis = 0 and 1
+> axis = 0 对一行中的每一列进行操作
+> axis = 1 对一列中的每一行进行操作
 
 ### Stacking together different arrays
 
-> hstack
+* hstack
 ```python
+import numpy as np
+from numpy import newaxis
 
+a=np.array([4.,7.])
+b=np.array([2.,8.])
+print(a,b)
+c = a[:, newaxis]
+d = b[:, newaxis]
+print(c)
+
+e = np.column_stack((a,b))
+f = np.column_stack((c,d))
+print(e,'\n\n',f)
 ```
+* vstack
 
+* column_stack
 
-> vstack
+* row_stack
 
+* concatenate
 
-> column_stack
+* c_
 
-> row_stack
-
-> concatenate
-
-> c_
-
-> r_
+* r_
 
 ## pandas
