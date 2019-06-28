@@ -9,9 +9,7 @@ Python practise
 ## Random walk
 
 ## numpy
-> about axis = 0 and 1
-> axis = 0 对一行中的每一列进行操作
-> axis = 1 对一列中的每一行进行操作
+> about axis = 0 and 1 <br> axis = 0 对一行中的每一列进行操作 <br>  axis = 1 对一列中的每一行进行操作 <br>
 
 ### Stacking together different arrays
 
