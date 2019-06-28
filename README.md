@@ -6,11 +6,11 @@ Python practise
 * Additionally, familiarity with basic concepts in algorithm design (for example, 'time and memory complexity'), 'machine learning' (classification, regression, and clustering), and 'statistics' is useful.
 * matplotlib
 
-# Random walk
+## Random walk
 
-# numpy
+## numpy
 
-## Stacking together different arrays
+### Stacking together different arrays
 
 > hstack
 ```python
@@ -31,4 +31,4 @@ Python practise
 
 > r_
 
-# pandas
+## pandas
