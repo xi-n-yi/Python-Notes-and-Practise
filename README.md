@@ -9,7 +9,7 @@ Python practise
 ## Random walk
 
 ## numpy
-> [Quickstart Tutorial by numpy.org](https://www.numpy.org/devdocs/user/quickstart.html)
+> [Quickstart Tutorial by numpy.org](https://www.numpy.org/devdocs/user/quickstart.html)<br>
 > About axis = 0 and 1: <br> axis = 0 对一行中的每一列进行操作 <br>  axis = 1 对一列中的每一行进行操作 <br>
 
 
